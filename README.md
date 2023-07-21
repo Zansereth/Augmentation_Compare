@@ -5,7 +5,10 @@ by the Evoker Discord (https://discord.gg/X9rrUnyM)
 to compare rDPS of two trinkets. I have also added
 the ability to type in stats of an item to compare
 and see which is better. I have not added any item
-specifically to it so it's manual (at least for now)
+specifically to it so it's manual (at least for now).
+Currently only ST is supported through data provided
+from this pin: 
+https://discord.com/channels/965456344360583188/1128342871922192445/1131219981510660148
 
 #VERSIONS
 
